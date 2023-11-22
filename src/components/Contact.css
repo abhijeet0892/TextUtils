@@ -1,0 +1,32 @@
+.contact-us {
+  width: 100%;
+  max-width: 500px;
+  margin: 70px auto;
+  padding: 20px;
+  border: 1px solid gray;
+  /* background-color: #dee3e2; */
+  border-radius: 5px;
+}
+
+.contact-us h1 {
+  text-align: center;
+  width: 100%;
+  border-bottom: 1px solid gray;
+  padding-bottom: 10px;
+}
+
+.contact-us .info {
+  margin: 30px 0 0 130px;
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-us .info div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contact-us .info i {
+  margin-right: 15px;
+}
